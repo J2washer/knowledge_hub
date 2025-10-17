@@ -1,0 +1,52 @@
+Title,Category,Link
+Python Tips,Programming,https://realpython.com/
+Python Projects for Beginners,Programming,https://www.programiz.com/python-programming/examples
+Learn Python,Programming,https://www.learnpython.org/
+Python Data Science,Programming,https://www.kaggle.com/learn/python
+JavaScript Basics,Programming,https://javascript.info/
+JavaScript Projects,Programming,https://www.freecodecamp.org/news/javascript-projects-for-beginners/
+Python Tricks,Programming,https://book.pythontips.com/en/latest/
+Python Functions Guide,Programming,https://www.w3schools.com/python/python_functions.asp
+Learn Python OOP,Programming,https://realpython.com/python3-object-oriented-programming/
+Python CSV Tutorial,Programming,https://realpython.com/python-csv/
+AI Basics,AI,https://www.deeplearning.ai/
+Machine Learning 101,AI,https://www.coursera.org/learn/machine-learning
+Deep Learning Guide,AI,https://www.tensorflow.org/learn
+OpenAI API Docs,AI,https://platform.openai.com/docs/
+AI Ethics,AI,https://plato.stanford.edu/entries/ethics-ai/
+Intro to NLP,AI,https://www.coursera.org/learn/natural-language-processing
+Computer Vision Basics,AI,https://opencv.org/
+Reinforcement Learning Guide,AI,https://www.rlbook.com/
+Data Science with Python,AI,https://www.kaggle.com/learn/data-science
+PyTorch Tutorials,AI,https://pytorch.org/tutorials/
+Web Development Guide,Web Development,https://developer.mozilla.org/en-US/docs/Learn
+React Guide,Web Development,https://reactjs.org/docs/getting-started.html
+Vue.js Guide,Web Development,https://vuejs.org/guide/introduction.html
+Angular Guide,Web Development,https://angular.io/start
+CSS Tricks,Web Development,https://css-tricks.com/
+HTML Tutorial,Web Development,https://www.w3schools.com/html/
+JavaScript DOM Guide,Web Development,https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+Frontend Masters,Web Development,https://frontendmasters.com/
+Tailwind CSS Docs,Web Development,https://tailwindcss.com/docs
+Bootstrap Docs,Web Development,https://getbootstrap.com/docs/
+Learn Git,Web Development,https://git-scm.com/docs/gittutorial
+Web Accessibility,Web Development,https://www.w3.org/WAI/fundamentals/accessibility-intro/
+REST API Guide,Web Development,https://restfulapi.net/
+Django Guide,Web Development,https://www.djangoproject.com/start/
+Flask Guide,Web Development,https://flask.palletsprojects.com/en/2.2.x/
+FastAPI Guide,Web Development,https://fastapi.tiangolo.com/
+Next.js Guide,Web Development,https://nextjs.org/learn/basics/create-nextjs-app
+Node.js Guide,Web Development,https://nodejs.org/en/docs/guides/
+TypeScript Guide,Programming,https://www.typescriptlang.org/docs/
+GitHub Learning Lab,Programming,https://lab.github.com/
+VS Code Tips,Programming,https://code.visualstudio.com/docs
+Python Debugging Tips,Programming,https://realpython.com/python-debugging-pdb/
+Python Virtual Environments,Programming,https://docs.python.org/3/tutorial/venv.html
+NumPy Guide,Programming,https://numpy.org/doc/stable/user/quickstart.html
+Pandas Guide,Programming,https://pandas.pydata.org/docs/getting_started/index.html
+Matplotlib Guide,Programming,https://matplotlib.org/stable/tutorials/introductory/pyplot.html
+Seaborn Guide,Programming,https://seaborn.pydata.org/tutorial.html
+SQL Basics,Programming,https://www.w3schools.com/sql/
+PostgreSQL Tutorial,Programming,https://www.postgresqltutorial.com/
+MongoDB Guide,Programming,https://www.mongodb.com/docs/
+Data Visualization,Programming,https://www.datacamp.com/courses/data-visualization-in-python
